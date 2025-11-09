@@ -1,9 +1,12 @@
 body {
-  background: url('dino.png');
-  background-size: cover;
   color: rgb(255, 255, 255);
   text-align: center;
   height: 100vh;
+}
+
+.dino-icon {
+  width: 40px;
+  height: auto;
 }
 
 .overlay {
