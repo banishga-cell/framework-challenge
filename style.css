@@ -1,7 +1,7 @@
 body {
   background: url('dino.png');
   background-size: cover;
-  color: white;
+  color: rgb(175, 245, 193);
   text-align: center;
   height: 100vh;
 }
