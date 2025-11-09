@@ -4,11 +4,6 @@ body {
   height: 100vh;
 }
 
-.dino-icon me-2 {
-  width: 40px !important;
-  height: 40px !important;
-}
-
 .overlay {
   background-color: rgba(0, 0, 0, 0.6);
   height: 100%;
@@ -18,13 +13,3 @@ body {
   flex-direction: column;
 }
 
-@keyframes flashButton {
-  0% { background-color: #dc3545; }
-  50% { background-color: #ffcc00; }
-  100% { background-color: #dc3545; }
-}
-
-.btn-danger {
-  animation: flashButton 1s infinite;
-  background-color: #dc3545;
-}
