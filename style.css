@@ -5,8 +5,8 @@ body {
 }
 
 .dino-icon {
-  width: 40px;
-  height: auto;
+  width: 40px !important;
+  height: 40px !important;
 }
 
 .overlay {
@@ -26,5 +26,5 @@ body {
 
 .btn-danger {
   animation: flashButton 1s infinite;
-  transition: background-color 0.3s;
+  background-color: #dc3545;
 }
